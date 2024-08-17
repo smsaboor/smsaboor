@@ -19,16 +19,28 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![Mongoose]() ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Stripe](https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Platforms](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green) ![Git](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white) ![VsCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-3f51b5?style=for-the-badge&logo=MaterialUI&logoColor=white) ![JQuery](https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Stripe](https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Platforms](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green) ![Git](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white) ![VsCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-3f51b5?style=for-the-badge&logo=MaterialUI&logoColor=white) ![JQuery](https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white)
 <br><br>
 
 
-
-<h3><img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/statistics.gif" width="35" height="30"> Tech Stack </h3>
+<!-- 
+<h3><img src="https://github.com/smsaboor/smsaboor/blob/main/statistics.gif" width="35" height="30"> Tech Stack </h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=smsaboor&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smsaboor&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smsaboor&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smsaboor&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true) -->
+
+<h2>⚙️  GitHub Analytics</h2>
+
+<div>
+  <p align="center">
+ <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smsaboor" alt="GitHub Stats" /> <br/><br/>
+
+</div>
+![My github status](https://github-readme-stats.vercel.app/api?username=smsaboor&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smsaboor&layout=compact)
+
 <br><br>
 
 <!-- <H3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Socials </H3> -->
