@@ -16,6 +16,7 @@
 - ⚡ Fun fact: I write code so clean, even my bugs have a debugging manual !
 
 <!-- <H3><img src="https://emojis.slackmojis.com/emojis/images/1619739775/34137/me_too.gif?1619739775" align="center" width="28" /> Languages and Tools </h3> -->
+<br/><br/>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
@@ -36,9 +37,9 @@
   <p align="center">
  <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smsaboor" alt="GitHub Stats" /> <br/><br/>
-
 </div>
-![My github status](https://github-readme-stats.vercel.app/api?username=smsaboor&show_icons=true&include_all_commits=true)
+
+![My github status](https://github-readme-stats.vercel.app/api?username=smsaboor&show_icons=true&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smsaboor&layout=compact)
 
 <br><br>
