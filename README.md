@@ -35,7 +35,7 @@
 
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = 20px height=40px> </h2>
 
- <p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboorkhanindia) 
 [![PlayStore](https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=MohammadSaboor)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mca.saboor)
@@ -43,7 +43,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/saboorkhanindia)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/saboorkhanindia?igshid=35jid2u2ui83)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.saboor.961) 
-</p>
 
 <br><br>
 
