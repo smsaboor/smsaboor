@@ -2,7 +2,7 @@
 
 <h1>Mohammad Saboor <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h1>
 
-<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Full Stack Developer !! </h3>
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Full Stack Developer ! </h3>
 
 - 🔭 I’m currently working on Flutter and Node.JS!
 - 🌱 Eager to learn as much as I can ...
