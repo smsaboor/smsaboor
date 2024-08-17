@@ -2,13 +2,13 @@
 
 <h1>Mohammad Saboor <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h1>
 
-<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Sophomore! </h3>
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Full Stack Developer !! </h3>
 
-- 🔭 I’m currently working on Flutter!
-- 🌱 Want to learn everything 👉👈
+- 🔭 I’m currently working on Flutter and Node.JS!
+- 🌱 Eager to learn as much as I can ...
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2023 Goals: Eat, Sleep, Code, Repeat.
-- ⚡ Fun fact: I am half Finished!
+- 🥅 2024 Goals: Code, create, and keep growing.
+- ⚡ Fun fact: I write code so clean, even my bugs have a debugging manual !
 
 <H3><img src="https://emojis.slackmojis.com/emojis/images/1619739775/34137/me_too.gif?1619739775" align="center" width="28" /> Languages and Tools </h3>
 
